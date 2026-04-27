@@ -91,3 +91,13 @@ Based on remaining gaps in AWS Prompt Library:
 - Zero competition on Aurora + pgvector and SOC 2
 
 Good luck! 
+
+## Repository
+
+GitHub: https://github.com/ayanuali/aws_prompt_hackathon
+
+Contains all 3 production-ready AWS infrastructure prompts for the AWS Prompt the Planet hackathon.
+
+## Author
+
+Ayan Uali - CTO with production AWS experience across RDS Aurora, Amplify, and SOC 2 compliance infrastructure.
